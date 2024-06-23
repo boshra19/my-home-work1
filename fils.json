@@ -1,0 +1,241 @@
+[
+
+
+{
+    
+
+"city":"حماه" ,
+"dital1":"مساحة 100م" ,
+"price1":"200000" ,
+"aria":"حريده",
+"gar":"نعم" ,
+"floor":"الثاني" ,
+"have":"طابو" ,
+"masaha":"20م" ,
+"mafrosh":"نعم",
+"img1":"./imge/image1.jpg",
+"img2":"./imge/image2.jpg",
+"img3": "./imge/log14.jpeg"
+
+
+
+
+}
+
+,
+{
+    
+
+    "city":"دمشق" ,
+    "dital1":"مساحة 150م" ,
+    "price1":"250000" ,
+    "aria":"المزة",
+    "gar":"نعم" ,
+    "floor":"الاول" ,
+    "have":"طابو" ,
+    "masaha":"15م" ,
+    "mafrosh":"نعم",
+    "img1":"./imge/log10.jpg",
+    "img2":"./imge/log11.jpg",
+    "img3": "./imge/log13.jpg"
+    
+    
+    
+    
+    }
+    
+
+    ,
+    {
+        
+    
+        "city":"دمشق" ,
+        "dital1":"مساحة 130م" ,
+        "price1":"180000" ,
+        "aria":"برامكة",
+        "gar":"لا" ,
+        "floor":"الخامس" ,
+        "have":"لا" ,
+        "masaha":"15م" ,
+        "mafrosh":"نعم",
+        "img1":"./imge/image1.jpg",
+        "img2":"./imge/image2.jpg",
+        "img3": "./imge/log14.jpeg"
+        
+        
+        
+        
+        }
+        ,
+        {
+            
+        
+            "city":"دمشق" ,
+            "dital1":"مساحة 180م" ,
+            "price1":"350000" ,
+            "aria":"المالكي",
+            "gar":"نعم" ,
+            "floor":"الثاني" ,
+            "have":"طابو" ,
+            "masaha":"15م" ,
+            "mafrosh":"نعم",
+            "img1":"./imge/log10.jpg",
+            "img2":"./imge/image2.jpg",
+            "img3": "./imge/image3.jpg"
+            
+            
+            
+            
+            }
+            ,
+            {
+                
+            
+                "city":"حمص" ,
+                "dital1":"مساحة 220م" ,
+                "price1":"350000" ,
+                "aria":"القصير",
+                "gar":"نعم" ,
+                "floor":"الرابع" ,
+                "have":"طابو" ,
+                "masaha":"لا يوجد" ,
+                "mafrosh":"نعم",
+                "img1":"./imge/image1.jpg",
+                "img2":"./imge/log11.jpg",
+                "img3": "./imge/image3.jpg"
+                
+                
+                
+                
+                }
+                ,
+                {
+                    
+                
+                    "city":"اللاذقية" ,
+                    "dital1":"مساحة 170م" ,
+                    "price1":"320000" ,
+                    "aria":"رائس شمرا",
+                    "gar":"نعم" ,
+                    "floor":"الارضي" ,
+                    "have":"طابو" ,
+                    "masaha":"25م" ,
+                    "mafrosh":"نعم",
+                    "img1":"./imge/image1.jpg",
+                    "img2":"./imge/image2.jpg",
+                    "img3": "./imge/image3.jpg"
+                    
+                    
+                    
+                    
+                    }
+                    ,
+                    {
+                        
+                    
+                        "city":"اللاذقية" ,
+                        "dital1":"مساحة 200م" ,
+                        "price1":"220000" ,
+                        "aria":"كسب",
+                        "gar":"لا" ,
+                        "floor":"الارضي" ,
+                        "have":"طابو" ,
+                        "masaha":"15م" ,
+                        "mafrosh":"نعم",
+                        "img1":"./imge/log11.jpg",
+                        "img2":"./imge/image2.jpg",
+                        "img3": "./imge/log14.jpeg"
+                        
+                        
+                        
+                        
+                        }
+                        ,
+                        {
+                            
+                        
+                                 "city":"حلب" ,
+                                 "dital1":"مساحة 160م" ,
+                                 "price1":"150000" ,
+                                 "aria":"جرابلس",
+                                 "gar":"نعم" ,
+                                 "floor":"الاول" ,
+                                 "have":"طابو" ,
+                                 "masaha":"15م" ,
+                                  "mafrosh":"نعم",
+                                 "img1":"./imge/image1.jpg",
+                                 "img2":"./imge/image2.jpg",
+                                 "img3": "./imge/log14.jpeg"
+                            
+                            
+                            
+                            
+                            }
+                            ,
+                            {
+                                
+                            
+                                 "city":"حلب" ,
+                                 "dital1":"مساحة 150م" ,
+                                 "price1":"170000" ,
+                                 "aria":"عفرين",
+                                 "gar":"نعم" ,
+                                 "floor":"الثاني" ,
+                                 "have":"طابو" ,
+                                 "masaha":"15م" ,
+                                 "mafrosh":"نعم",
+                                 "img1":"./imge/image1.jpg",
+                                 "img2":"./imge/log11.jpg",
+                                 "img3": "./imge/log14.jpeg"
+                                 
+                                
+                                
+                                
+                                }
+                                ,
+                                {
+                                    
+                                
+                                    "city":"درعا" ,
+                                    "dital1":"مساحة 200م" ,
+                                    "price1":"250000" ,
+                                    "aria":"الجيزة",
+                                    "gar":"نعم" ,
+                                    "floor":"الاول" ,
+                                    "have":"طابو" ,
+                                    "masaha":"18م" ,
+                                    "mafrosh":"نعم",
+                                    "img1":"./imge/image1.jpg",
+                                    "img2":"./imge/image2.jpg",
+                                    "img3": "./imge/image3.jpg"
+                                    
+                                    
+                                    
+                                    
+                                    }
+                                 ,
+                                {
+    
+
+                                 "city":"دير الزور " ,
+                                 "dital1":"مساحة 300م" ,
+                                 "price1":"210000" ,
+                                 "aria":"الجاسمي",
+                                 "gar":"نعم" ,
+                                 "floor":"الاول" ,
+                                 "have":"طابو" ,
+                                 "masaha":"16م" ,
+                                 "mafrosh":"نعم",
+                                 "img1":"./imge/log11.jpg",
+                                 "img2":"./imge/image2.jpg",
+                                 "img3": "./imge/log14.jpeg"
+    
+    
+    
+    
+    }
+                                                                                                                                                    
+
+
+
+]
